@@ -28,7 +28,7 @@ Rehabilitation.
 # 🔥 News
 - *2026.01.05-01.09*: &nbsp;🎉🎉 I am nominated to participate in the Global Young Scientists Summit (GYSS) 2026. See you in Singapore!
 - *2025.12.12*: &nbsp;🎉🎉 Our study was featured as a Spotlight Poster at the 2nd Chinese Conference on Brain-Machine Intelligence! 
-- *2025.08.05*: &nbsp;🎉🎉 Three papers are accepted by EMBC NER 2025
+- *2025.08.05*: &nbsp; Three papers are accepted by EMBC NER 2025
 
 
 # 📝 Publications 
