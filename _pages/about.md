@@ -28,6 +28,7 @@ Rehabilitation.
 # 🔥 News
 - *2026.01.05-01.09*: &nbsp;🎉🎉 I am nominated to participate in the Global Young Scientists Summit (GYSS) 2026. See you in Singapore!
 - *2025.12.12*: &nbsp;🎉🎉 Our study was featured as a Spotlight Poster at the 2nd Chinese Conference on Brain-Machine Intelligence! 
+- *2025.08.05*: &nbsp;🎉🎉 Three papers are accepted by EMBC NER 2025
 
 
 # 📝 Publications 
@@ -48,6 +49,7 @@ Rehabilitation.
 
 ### 2025
   - [C7] Zhiwei Song, <strong style="color:#DE3163">Shenghui Wu</strong>, Taiyan Zhou, Yiwen Wang. _Extracting Preserved Neural Latent Dynamics Across Tasks using Convolutional Transformer-based Variational Autoendecoder_. In Proceedings of 2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 🔗[[Paper]](https://ieeexplore.ieee.org/document/11251780/)
+  - [C8] <strong style="color:#DE3163">Shenghui Wu</strong>, Xiang Zhang, Yiwen Wang. _Behavior-Reinforced Latent Alignment for Generating Functional Neural Spike Patterns_. In Proceedings of 2025 International Joint Conference on Neural Networks (IJCNN). 🔗[[Paper]](https://ieeexplore.ieee.org/document/11228048/)
 
 ### 2024
   - [C4] <strong style="color:#DE3163">Shenghui Wu</strong>, Xiang Zhang, Yifan Huang, Yiwen Wang. _Aligning Transregional Neural Dynamics with Transformer-based Variational Autoencoders_. In Proceedings of 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 🔗[[Paper]](https://ieeexplore.ieee.org/document/10782188/)
