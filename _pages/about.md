@@ -17,14 +17,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Shenghui WU received his B.Eng. degree from Huazhong University of Science and Technology <a href='https://english.hust.edu.cn/'>(HUST)</a> in 2019. He earned his MPhil and Ph.D. degree from the Hong Kong University of Science and Technology <a href='https://hkust.edu.hk/'>(HKUST)</a> in 2021 and 2024, respectively, under the supervision of <a href="https://ece.hkust.edu.hk/eewangyw">Prof. Yiwen Wang</a> in the [Computational Cognitive Engineering Lab](https://bmi.hkust.edu.hk/) lab. He is now a [**Research Assistant Professor**](https://ece.hkust.edu.hk/eewushenghui) in HKUST. 
+
+His research interests include <strong>brain-machine interfaces</strong>, <strong>neural engineering</strong>, and <strong>reinforcement learning</strong>. He has publications at top journals and conferences, including Nature Computational Science, IEEE TNSRE, Journal of Neural Engineering, etc. He is a reviewer for several conferences and journals. He served as a session chair for IJCNN 2025 and a member of the organization committee for the 4th International Workshop on Neural Engineering and
+Rehabilitation.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01.05-01.09*: &nbsp;🎉🎉 I am nominated to participate in the Global Young Scientists Summit (GYSS) 2026. See you in Singapore!
+- *2025.12.12*: &nbsp;🎉🎉 Our study was featured as a Spotlight Poster at the 2nd Chinese Conference on Brain-Machine Intelligence! 
 
 # 📝 Publications 
 
@@ -43,16 +46,32 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024, 2023* HKUST RedBird Academic Excellence Award
+- *2024* NextGen Scholar Award, IEEE EMBC
+- *2023* HKUST ECE Best Teaching Assistant Award 2022/23
+- *2019* HUST Outstanding Graduate
+- *2018* National Encouragement Scholarship
+- *2018* First Prize of Microchip China Scholarship
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎓 Educations
+- *2021.09 - 2024.08*, **Ph.D**, The Hong Kong University of Science and Technology.
+- *2019.09 - 2021.08*, **MPhil**, The Hong Kong University of Science and Technology.
+- *2015.09 - 2019.06*, **B.Eng**, Huazhong University of Science and Technology.
+
+# 🖐️ Services
+- **Reviewer** for J. Neural Eng., EMBC 2025, IJCNN 2025, EMBC NER 2025.
+- **Session Chair** of IJCNN 2025.
+- **Ambassador** for 2023 IEEE EMBS Student Mentoring Program (Online).
+- **Organization Committee member** for the 4th International Workshop on Neural Engineering and Rehabilitation (Chengdu, China).
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2024.05*, <strong>Reinforcement Learning-based Spike Prediction for Transregional Neural Prostheses</strong>. In ECE Future Leaders PG Seminar. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 📖 Teaching
+- *2022 Fall*, *2020 Fall*, **Teaching Assistant**, Signals and Systems (ELEC 2100).
+- *2022 Spring*, **Teaching Assistant**, Machine Learning on Images (ELEC 4130).
+- *2020 Spring*, **Teaching Assistant**, Statistical Signal Analysis and Applications in Neural Engineering (ELEC 4830 & BIEN 4310).
+
+# 💻 Working Experience
+- *2024.09 - 2025.12*, <strong>Research Associate</strong>HKUST, working with <a href="https://ece.hkust.edu.hk/eewangyw">Prof. Yiwen Wang</a>
+- *2017.09 - 2019.06*, <strong>Backend Developer</strong>, Part-time Intern at [Wuhan Xiaoan Technology Co., Ltd](https://www.xiaoantech.com/)

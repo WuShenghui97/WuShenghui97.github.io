@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shenghui Wu (伍圣晖)"
-description              : ""
+description              : "Brain-Machine Interface, Neural Engineering"
 repository               : "WuShenghui97/WuShenghui97.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Shenghui Wu (伍圣晖)"
+  name             : "Shenghui Wu"
   avatar           : "images/avatar.jpg"
   bio              : "Research Assistant Professor @ HKUST"
   location         : "Hong Kong, China"
