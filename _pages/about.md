@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Shenghui WU received his B.Eng. degree from Huazhong University of Science and Technology <a href='https://english.hust.edu.cn/'>(HUST)</a> in 2019. He earned his MPhil and Ph.D. degree from the Hong Kong University of Science and Technology <a href='https://hkust.edu.hk/'>(HKUST)</a> in 2021 and 2024, respectively, under the supervision of <a href="https://ece.hkust.edu.hk/eewangyw">Prof. Yiwen Wang</a> in the [Computational Cognitive Engineering Lab](https://bmi.hkust.edu.hk/) lab. He is now a [**Research Assistant Professor**](https://ece.hkust.edu.hk/eewushenghui) in HKUST. 
+Shenghui WU (伍圣晖) received his B.Eng. degree from Huazhong University of Science and Technology <a href='https://english.hust.edu.cn/'>(HUST)</a> in 2019. He earned his MPhil and Ph.D. degree from the Hong Kong University of Science and Technology <a href='https://hkust.edu.hk/'>(HKUST)</a> in 2021 and 2024, respectively, under the supervision of <a href="https://ece.hkust.edu.hk/eewangyw">Prof. Yiwen Wang</a> in the [Computational Cognitive Engineering Lab](https://bmi.hkust.edu.hk/) lab. He is now a [**Research Assistant Professor**](https://ece.hkust.edu.hk/eewushenghui) in HKUST. 
 
 His research interests include <strong>brain-machine interfaces</strong>, <strong>neural engineering</strong>, and <strong>reinforcement learning</strong>. He has publications at top journals and conferences, including Nature Computational Science, IEEE TNSRE, Journal of Neural Engineering, etc. He is a reviewer for several conferences and journals. He served as a session chair for IJCNN 2025 and a member of the organization committee for the 4th International Workshop on Neural Engineering and
 Rehabilitation.
