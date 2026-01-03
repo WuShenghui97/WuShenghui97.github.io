@@ -35,14 +35,15 @@ Rehabilitation.
 
 ### 2026
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Comp. Sci.</div><img src='images/RLPP.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Comp. Sci.</div><img src='images/RLPP.png' alt="sym" width="100%"></div></div> -->
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/RLPP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [J5] _A generative spike prediction model using behavioral reinforcement for re-establishing neural functional connectivity_
 
-<strong style="color:#DE3163">Shenghui Wu</strong>, Zhiwei Song, Xiang Zhang, Yifan Huang, Shuhang Chen, Xiang Shen, Jieyuan Tan, Mingdong Li, Ziyi Wang, Yujun Chen, Kai Liu, Dario Farina, Jose C. Principe, Yiwen Wang
+<strong style="color:#DE3163">Shenghui Wu</strong>, Zhiwei Song, Xiang Zhang, Yifan Huang, Shuhang Chen, Xiang Shen, Jieyuan Tan, Mingdong Li, Ziyi Wang, Yujun Chen, Kai Liu, Dario Farina, Jose C. Principe, Yiwen Wang. In Nature Computational Science.
 
-🔗[[Paper]](https://www.nature.com/articles/s43588-025-00915-5) | [**Code**](https://github.com/WuShenghui97/RLPP) 
+[**Paper**](https://www.nature.com/articles/s43588-025-00915-5) | [**Code**](https://github.com/WuShenghui97/RLPP) 
 - The study presents a generative spike-based framework to re-establish functional connectivity across pathway-damaged brain regions, enabling biomimetic neural prostheses and closed-loop brain stimulation.
 </div>
 </div>
