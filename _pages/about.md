@@ -33,19 +33,18 @@ Rehabilitation.
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+### 2026
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Comp. Sci.</div><img src='images/RLPP.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A generative spike prediction model using behavioral reinforcement for re-establishing neural functional connectivity](https://www.nature.com/articles/s43588-025-00915-5)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Shenghui Wu**, Zhiwei Song, Xiang Zhang, Yifan Huang, Shuhang Chen, Xiang Shen, Jieyuan Tan, Mingdong Li, Ziyi Wang, Yujun Chen, Kai Liu, Dario Farina, Jose C. Principe, Yiwen Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Code**](https://github.com/WuShenghui97/RLPP) 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 ### 2025
   - [C7] Zhiwei Song, <strong style="color:#DE3163">Shenghui Wu</strong>, Taiyan Zhou, Yiwen Wang. _Extracting Preserved Neural Latent Dynamics Across Tasks using Convolutional Transformer-based Variational Autoendecoder_. In Proceedings of 2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 🔗[[Paper]](https://ieeexplore.ieee.org/document/11251780/)
