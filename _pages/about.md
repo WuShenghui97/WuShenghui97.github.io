@@ -106,5 +106,6 @@ Rehabilitation.
 
 
 # 💻 Working Experience
-- *2024.09 - 2025.12*, <strong>Research Associate</strong>HKUST, working with <a href="https://ece.hkust.edu.hk/eewangyw">Prof. Yiwen Wang</a>
+- *2026.01 - present*, <strong>Research Assistant Professor</strong>, HKUST
+- *2024.09 - 2025.12*, <strong>Research Associate</strong>, HKUST, working with <a href="https://ece.hkust.edu.hk/eewangyw">Prof. Yiwen Wang</a>
 - *2017.09 - 2019.06*, <strong>Backend Developer</strong>, Part-time Intern at [Wuhan Xiaoan Technology Co., Ltd](https://www.xiaoantech.com/)
