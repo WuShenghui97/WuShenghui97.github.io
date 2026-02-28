@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Shenghui WU (伍圣晖) received his B.Eng. degree from Huazhong University of Science and Technology <a href='https://english.hust.edu.cn/'>(HUST)</a> in 2019. He earned his MPhil and Ph.D. degree from the Hong Kong University of Science and Technology <a href='https://hkust.edu.hk/'>(HKUST)</a> in 2021 and 2024, respectively, under the supervision of <a href="https://ece.hkust.edu.hk/eewangyw">Prof. Yiwen Wang</a> in the [Computational Cognitive Engineering Lab](https://bmi.hkust.edu.hk/) lab. He is now a [**Research Assistant Professor**](https://ece.hkust.edu.hk/eewushenghui) in HKUST. 
+Shenghui WU (伍圣晖) received his B.Eng. degree from Huazhong University of Science and Technology <a href='https://english.hust.edu.cn/'>(HUST)</a> in 2019. He earned his MPhil and Ph.D. degree from the Hong Kong University of Science and Technology <a href='https://hkust.edu.hk/'>(HKUST)</a> in 2021 and 2024, respectively, under the supervision of <a href="https://ece.hkust.edu.hk/eewangyw">Prof. Yiwen Wang</a> in the [Computational Cognitive Engineering Lab](https://bmi.hkust.edu.hk/). He is now a [**Research Assistant Professor**](https://ece.hkust.edu.hk/eewushenghui) in HKUST. 
 
-His research interests include <strong>brain-machine interfaces</strong>, <strong>neural engineering</strong>, and <strong>reinforcement learning</strong>. He has publications at top journals and conferences, including Nature Computational Science, IEEE TNSRE, Journal of Neural Engineering, etc. He is a reviewer for several conferences and journals. He served as a session chair for IJCNN 2025 and a member of the organization committee for the 4th International Workshop on Neural Engineering and
-Rehabilitation.
+His research interests include <strong>brain-machine interfaces</strong>, <strong>neural engineering</strong>, and <strong>reinforcement learning</strong>. His work has been published in top journals, including a cover article of *Nature Computational Science*, and selected for oral presentation and spotlight poster at multiple flagship international conferences. His work has also been featured in media outlets such as *Ta Kung Pao* and *HKEJ*.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -36,12 +35,12 @@ Rehabilitation.
 ### 2026
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Comp. Sci.</div><img src='images/RLPP.png' alt="sym" width="100%"></div></div> -->
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/RLPP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/RLPP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [J5] _A generative spike prediction model using behavioral reinforcement for re-establishing neural functional connectivity_
 
-<strong style="color:#DE3163">Shenghui Wu</strong>, Zhiwei Song, Xiang Zhang, Yifan Huang, Shuhang Chen, Xiang Shen, Jieyuan Tan, Mingdong Li, Ziyi Wang, Yujun Chen, Kai Liu, Dario Farina, Jose C. Principe, Yiwen Wang. In Nature Computational Science.
+<strong style="color:#DE3163">Shenghui Wu</strong>, Zhiwei Song, Xiang Zhang, Yifan Huang, Shuhang Chen, Xiang Shen, Jieyuan Tan, Mingdong Li, Ziyi Wang, Yujun Chen, Kai Liu, Dario Farina, Jose C. Principe, Yiwen Wang. In Nature Computational Science (**Featured Cover Article**).
 
 [**Paper**](https://www.nature.com/articles/s43588-025-00915-5) | [**Code**](https://github.com/WuShenghui97/RLPP) 
 - The study presents a generative spike-based framework to re-establish functional connectivity across pathway-damaged brain regions, enabling biomimetic neural prostheses and closed-loop brain stimulation.
