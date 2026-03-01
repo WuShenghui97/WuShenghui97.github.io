@@ -87,8 +87,9 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 - *2015.09 - 2019.06*, **B.Eng**, Huazhong University of Science and Technology.
 
 
-# 🖐️ Services
-- **Reviewer** for J. Neural Eng., EMBC 2025, IJCNN 2025, EMBC NER 2025.
+# 🖐️ Academic Services & Activities
+- **Reviewer** for J. Neural Eng., EMBC 2025, IJCNN 2025 2026, EMBC NER 2025.
+- Attending the **GYSS (Global Young Scientists Summit) 2026** in Singapore 
 - **Session Chair** of IJCNN 2025.
 - **Ambassador** for 2023 IEEE EMBS Student Mentoring Program (Online).
 - **Organization Committee member** for the 4th International Workshop on Neural Engineering and Rehabilitation (Chengdu, China).
