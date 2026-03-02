@@ -19,12 +19,13 @@ redirect_from:
 
 Shenghui WU (伍圣晖) received his B.Eng. degree from Huazhong University of Science and Technology <a href='https://english.hust.edu.cn/'>(HUST)</a> in 2019. He earned his MPhil and Ph.D. degree from the Hong Kong University of Science and Technology <a href='https://hkust.edu.hk/'>(HKUST)</a> in 2021 and 2024, respectively, under the supervision of <a href="https://ece.hkust.edu.hk/eewangyw">Prof. Yiwen Wang</a> in the [Computational Cognitive Engineering Lab](https://bmi.hkust.edu.hk/). He is now a [**Research Assistant Professor**](https://ece.hkust.edu.hk/eewushenghui) in HKUST. 
 
-His research interests include <strong>brain-machine interfaces</strong>, <strong>neural engineering</strong>, and <strong>reinforcement learning</strong>. His work has been published in top journals, including a cover article of *Nature Computational Science*, and selected for oral presentation and spotlight poster at multiple flagship international conferences. His work has also been featured in media outlets such as *Ta Kung Pao* and *HKEJ*.
+His research interests include <strong>brain-machine interfaces</strong>, <strong>neural engineering</strong>, and <strong>reinforcement learning</strong>. His work has been published in top journals, including a cover story of *Nature Computational Science*, and selected for oral presentation and spotlight poster at multiple flagship international conferences. His work has also been featured in media outlets such as *Ta Kung Pao* and *HKEJ*.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
+- *2026.02.26*: &nbsp;🎉🎉Our work on behavior-reinforced spike generation has been selected as a featured article and the cover story of *Nature Computational Science*!
 - *2026.01.05-01.09*: &nbsp;🎉🎉 I am nominated to participate in the Global Young Scientists Summit (GYSS) 2026. See you in Singapore!
 - *2025.12.12*: &nbsp;🎉🎉 Our study was featured as a Spotlight Poster at the 2nd Chinese Conference on Brain-Machine Intelligence! 
 - *2025.08.05*: &nbsp; Three papers are accepted by EMBC NER 2025
