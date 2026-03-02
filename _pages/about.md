@@ -74,6 +74,7 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 
 
 # 🎖 Honors and Awards
+- *2025* Spotlight Poster, the 2nd Chinese Conference on Brain-Machine Intelligence
 - *2024, 2023* HKUST RedBird Academic Excellence Award
 - *2024* NextGen Scholar Award, IEEE EMBC
 - *2023* HKUST ECE Best Teaching Assistant Award 2022/23
