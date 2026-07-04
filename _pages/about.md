@@ -25,11 +25,14 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 
 
 # 🔥 News
-- *2026.03.27*: &nbsp;🎉🎉Our work was selected for the [2026 Brain Machine Interfaces Innovation Achievements at the Zhongguancun Forum (中关村论坛) held on March 27th](https://news.qq.com/rain/a/20260328A02OC600).
-- *2026.02.26*: &nbsp;🎉🎉Our work on behavior-reinforced spike generation has been selected as a featured article and the cover story of *Nature Computational Science*!
-- *2026.01.05-01.09*: &nbsp;🎉🎉 I am nominated to participate in the Global Young Scientists Summit (GYSS) 2026. See you in Singapore!
-- *2025.12.12*: &nbsp;🎉🎉 Our study was featured as a Spotlight Poster at the 2nd Chinese Conference on Brain-Machine Intelligence! 
-- *2025.08.05*: &nbsp; Three papers are accepted by EMBC NER 2025
+- *2026.06.26*: &nbsp;🎉🎉One paper is accecpted by SMC 2026!
+- *2026.06.12*: &nbsp;🎉🎉I am awarded the Best Student Oral Presentation Finalist in SSNR2026!
+- *2026.06.10*: &nbsp;🎉🎉One paper is selected for oral presentation at EMBC 2026!
+- *2026.03.27*: &nbsp; Our work was selected for the [2026 Brain Machine Interfaces Innovation Achievements at the Zhongguancun Forum (中关村论坛) held on March 27th](https://news.qq.com/rain/a/20260328A02OC600).
+- *2026.02.26*: &nbsp; Our work on behavior-reinforced spike generation has been selected as a featured article and the cover story of *Nature Computational Science*.
+- *2026.01.05-01.09*: &nbsp; I am nominated to participate in the Global Young Scientists Summit (GYSS) 2026. See you in Singapore.
+- *2025.12.12*: &nbsp; Our study was featured as a Spotlight Poster at the 2nd Chinese Conference on Brain-Machine Intelligence.
+- *2025.08.05*: &nbsp; Three papers are accepted by EMBC NER 2025.
 
 
 # 📝 Publications 
@@ -75,6 +78,9 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 
 
 # 🎖 Honors and Awards
+- *2026* Best Student Oral Presentation Finalist, Summer School on NeuroRehabilitation (SSNR 2026), Baiona, Spain
+- *2026* Outstanding Publication in Neuroscience Award, Hong Kong Plexon Inc. 
+- *2026* Brain-Machine Interfaces Innovation Achievement at the Zhongguancun Forum, Beijing, China 
 - *2025* Spotlight Poster, the 2nd Chinese Conference on Brain-Machine Intelligence
 - *2024, 2023* HKUST RedBird Academic Excellence Award
 - *2024* NextGen Scholar Award, IEEE EMBC
@@ -98,8 +104,9 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 - **Organization Committee member** for the 4th International Workshop on Neural Engineering and Rehabilitation (Chengdu, China).
 
 
-# 💬 Invited Talks
-- *2024.05*, <strong>Reinforcement Learning-based Spike Prediction for Transregional Neural Prostheses</strong>. In ECE Future Leaders PG Seminar. 
+# 💬 Presentations & Invited Talks
+- *2026.06.07*, <strong>Shaping population spike patterns under behavioral reinforcement with neural manifold constraint</strong>. In SSNR2026, Baiona, Spain. 
+- *2024.05*, <strong>Reinforcement learning-based spike prediction for transregional neural prostheses</strong>. In ECE Future Leaders PG Seminar. 
 
 
 # 📖 Teaching
