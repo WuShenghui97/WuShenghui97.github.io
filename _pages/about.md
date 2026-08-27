@@ -25,9 +25,10 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 
 
 # 🔥 News
+- *2026.08.25*: &nbsp;🎉🎉I am invited to present at the Young Investigator Colloquiums (YIC) on the APSN-FAONS-HKSN Neuroscience conference 2026!
 - *2026.06.26*: &nbsp;🎉🎉One paper is accecpted by SMC 2026!
 - *2026.06.12*: &nbsp;🎉🎉I am awarded the Best Student Oral Presentation Finalist in SSNR2026!
-- *2026.06.10*: &nbsp;🎉🎉One paper is selected for oral presentation at EMBC 2026!
+- *2026.06.10*: &nbsp; One paper is selected for oral presentation at EMBC 2026.
 - *2026.03.27*: &nbsp; Our work was selected for the [2026 Brain Machine Interfaces Innovation Achievements at the Zhongguancun Forum (中关村论坛) held on March 27th](https://news.qq.com/rain/a/20260328A02OC600).
 - *2026.02.26*: &nbsp; Our work on behavior-reinforced spike generation has been selected as a featured article and the cover story of *Nature Computational Science*!
 - *2026.01.05-01.09*: &nbsp; I am nominated to participate in the Global Young Scientists Summit (GYSS) 2026. See you in Singapore!
@@ -38,6 +39,23 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 # 📝 Publications 
 
 ### 2026
+
+<div class='paper-box' style="display:flex; flex-direction:row-reverse;">
+  <div class='paper-box-image' style="flex:1; margin-left:20px;">
+    <div><img src='images/TransregionalProsthesis.jpg' alt="prosthesis" width="100%"></div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="flex:2;">
+
+  [J6] _Transregional Neural Prostheses: Applications and Computational Tools_
+
+  <strong style="color:#DE3163">Shenghui Wu</strong>, Jose C. Principe, Yiwen Wang.  
+  In IEEE Transactions on Neural Systems and Rehabilitation Engineering (**Invited review paper**).
+
+  [**Paper**](https://ieeexplore.ieee.org/abstract/document/11625931)  
+  - This review systematizes and defines the **transregional neural prosthesis** as an artificial systems that re-establish endogenous neural communication across damaged pathways, and proposes a **computational framework** to provide a roadmap for future research.
+  </div>
+</div>
+
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nat. Comp. Sci.</div><img src='images/RLPP.png' alt="sym" width="100%"></div></div> -->
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/RLPP.jpg' alt="sym" width="100%"></div></div>
@@ -105,8 +123,9 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 
 
 # 💬 Presentations & Invited Talks
+- *2026.08.25*, <strong>Towards Transregional Neural Prostheses: Re-establishing neural functional connectivity with generative spike prediction models </strong>. In the Young Investigator Colloquiums (YIC) of the APSN-FAONS-HKSN Neuroscience conference 2026, Hong Kong.
 - *2026.06.07*, <strong>Shaping population spike patterns under behavioral reinforcement with neural manifold constraint</strong>. In SSNR2026, Baiona, Spain. 
-- *2024.05*, <strong>Reinforcement learning-based spike prediction for transregional neural prostheses</strong>. In ECE Future Leaders PG Seminar. 
+- *2024.05*, <strong>Reinforcement learning-based spike prediction for transregional neural prostheses</strong>. In ECE Future Leaders PG Seminar, HKUST, Hong Kong. 
 
 
 # 📖 Teaching
