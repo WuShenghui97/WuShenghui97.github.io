@@ -25,9 +25,9 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 
 
 # 🔥 News
-- *2026.08.25*: &nbsp;🎉🎉I am invited to present at the Young Investigator Colloquiums (YIC) on the APSN-FAONS-HKSN Neuroscience conference 2026!
-- *2026.06.26*: &nbsp;🎉🎉One paper is accecpted by SMC 2026!
-- *2026.06.12*: &nbsp;🎉🎉I am awarded the Best Student Oral Presentation Finalist in SSNR2026!
+- *2026.08.25*: &nbsp; I am invited to present at the Young Investigator Colloquiums (YIC) on the APSN-FAONS-HKSN Neuroscience conference 2026!
+- *2026.06.26*: &nbsp; One paper is accecpted by SMC 2026.
+- *2026.06.12*: &nbsp; I am awarded the Best Student Oral Presentation Finalist in SSNR2026.
 - *2026.06.10*: &nbsp; One paper is selected for oral presentation at EMBC 2026.
 - *2026.03.27*: &nbsp; Our work was selected for the [2026 Brain Machine Interfaces Innovation Achievements at the Zhongguancun Forum (中关村论坛) held on March 27th](https://news.qq.com/rain/a/20260328A02OC600).
 - *2026.02.26*: &nbsp; Our work on behavior-reinforced spike generation has been selected as a featured article and the cover story of *Nature Computational Science*!
@@ -49,10 +49,8 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
   [J6] _Transregional Neural Prostheses: Applications and Computational Tools_
 
   <strong style="color:#DE3163">Shenghui Wu</strong>, Jose C. Principe, Yiwen Wang.  
-  In IEEE Transactions on Neural Systems and Rehabilitation Engineering (**Invited review paper**).
-
-  [**Paper**](https://ieeexplore.ieee.org/abstract/document/11625931)  
-  - This review systematizes and defines the **transregional neural prosthesis** as an artificial systems that re-establish endogenous neural communication across damaged pathways, and proposes a **computational framework** to provide a roadmap for future research.
+  In IEEE Transactions on Neural Systems and Rehabilitation Engineering (**Invited review paper**). [**Paper**](https://ieeexplore.ieee.org/abstract/document/11625931)  
+  - This review systematizes and defines the **transregional neural prosthesis** as an artificial systems that re-establish endogenous neural communication across damaged pathways, and proposes a **computational framework** as a roadmap for future research.
   </div>
 </div>
 
