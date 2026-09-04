@@ -26,7 +26,7 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 
 # 🔥 News
 - *2026.08.25*: &nbsp; I am invited to present at the Young Investigator Colloquiums (YIC) on the APSN-FAONS-HKSN Neuroscience conference 2026!
-- *2026.06.26*: &nbsp; One paper is accecpted by SMC 2026.
+- *2026.06.26*: &nbsp; One paper is accepted by SMC 2026.
 - *2026.06.12*: &nbsp; I am awarded the Best Student Oral Presentation Finalist in SSNR2026.
 - *2026.06.10*: &nbsp; One paper is selected for oral presentation at EMBC 2026.
 - *2026.03.27*: &nbsp; Our work was selected for the [2026 Brain Machine Interfaces Innovation Achievements at the Zhongguancun Forum (中关村论坛) held on March 27th](https://news.qq.com/rain/a/20260328A02OC600).
@@ -50,7 +50,7 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 
   <strong style="color:#DE3163">Shenghui Wu</strong>, Jose C. Principe, Yiwen Wang.  
   In IEEE Transactions on Neural Systems and Rehabilitation Engineering (**Invited review paper**). [**Paper**](https://ieeexplore.ieee.org/abstract/document/11625931)  
-  - This review systematizes and defines the **transregional neural prosthesis** as an artificial systems that re-establish endogenous neural communication across damaged pathways, and proposes a **computational framework** as a roadmap for future research.
+  - This review systematizes and defines the **transregional neural prosthesis** as an artificial system that re-establish endogenous neural communication across damaged pathways, and proposes a **computational framework** as a roadmap for future research.
   </div>
 </div>
 
@@ -71,6 +71,9 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 ### 2025
   - [C7] Zhiwei Song, <strong style="color:#DE3163">Shenghui Wu</strong>, Taiyan Zhou, Yiwen Wang. _Extracting Preserved Neural Latent Dynamics Across Tasks using Convolutional Transformer-based Variational Autoendecoder_. In Proceedings of 2025 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 🔗[[Paper]](https://ieeexplore.ieee.org/document/11251780/)
   - [C8] <strong style="color:#DE3163">Shenghui Wu</strong>, Xiang Zhang, Yiwen Wang. _Behavior-Reinforced Latent Alignment for Generating Functional Neural Spike Patterns_. In Proceedings of 2025 International Joint Conference on Neural Networks (IJCNN). 🔗[[Paper]](https://ieeexplore.ieee.org/document/11228048/)
+  - [C9] Ziyi Wang, <strong style="color:#DE3163">Shenghui Wu</strong>, Yiwen Wang. _Decomposing Behavior-Irrelevant Neural Latent States Via Transformer-Based VAE with Total Correlation Regularization_. In Proceedings of 2025 12th International IEEE/EMBS Conference on Neural Engineering (NER). 🔗[[Paper]](https://ieeexplore.ieee.org/abstract/document/11588912)
+  - [C10] Zixu Wang, <strong style="color:#DE3163">Shenghui Wu</strong>, Xiang Zhang, Yiwen Wang. _Modeling Task-Related Neural Correlations with a Kernel Least Square Point Process Filter_. In Proceedings of 2025 12th International IEEE/EMBS Conference on Neural Engineering (NER). 🔗[[Paper]](https://ieeexplore.ieee.org/abstract/document/11589027)
+  - [C11] Mingdong Li, Tianyi Hu, Zhiwei Song, Mingyi Wang,<strong style="color:#DE3163">Shenghui Wu</strong>, Jieyuan Tan, Zixu Wang, Yiwen Wang. _Estimating Neural Representations Underlying Behaviors Via Point Process Filtering in Brain-Machine Interface Task Learning_. In Proceedings of 2025 12th International IEEE/EMBS Conference on Neural Engineering (NER). 🔗[[Paper]](https://ieeexplore.ieee.org/abstract/document/11589053)
 
 ### 2024
   - [C4] <strong style="color:#DE3163">Shenghui Wu</strong>, Xiang Zhang, Yifan Huang, Yiwen Wang. _Aligning Transregional Neural Dynamics with Transformer-based Variational Autoencoders_. In Proceedings of 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC). 🔗[[Paper]](https://ieeexplore.ieee.org/document/10782188/)
@@ -113,7 +116,7 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 
 
 # 🖐️ Academic Services & Activities
-- **Reviewer** for J. Neural Eng., EMBC 2025, IJCNN 2025 2026, EMBC NER 2025.
+- **Reviewer** for J. Neural Eng., Patterns, EMBC 2025, IJCNN 2025 2026, EMBC NER 2025.
 - Attending the **GYSS (Global Young Scientists Summit) 2026** in Singapore 
 - **Session Chair** of IJCNN 2025.
 - **Ambassador** for 2023 IEEE EMBS Student Mentoring Program (Online).
