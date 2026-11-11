@@ -124,7 +124,7 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 
 
 # 💬 Presentations & Invited Talks
-- *2026.11.03*, <strong>Learning with Brain in the Loop: Transregional Neural Prostheses and Autonomous Brain-Machine Interfaces</strong>. In ECE Guest Research Seminar, University of Sydney, Australia (invited by [Prof. Daniel Quevedol Q](https://profiles.sydney.edu.au/daniel.quevedo)).
+- *2026.11.03*, <strong>Learning with Brain in the Loop: Transregional Neural Prostheses and Autonomous Brain-Machine Interfaces</strong>. In ECE Guest Research Seminar, University of Sydney, Australia (invited by [Prof. Daniel Quevedo](https://profiles.sydney.edu.au/daniel.quevedo)).
 - *2026.08.25*, <strong>Towards Transregional Neural Prostheses: Re-establishing neural functional connectivity with generative spike prediction models </strong>. In the Young Investigator Colloquiums (YIC) of the APSN-FAONS-HKSN Neuroscience conference 2026, Hong Kong.
 - *2026.06.07*, <strong>Shaping population spike patterns under behavioral reinforcement with neural manifold constraint</strong>. In SSNR2026, Baiona, Spain. 
 - *2024.05*, <strong>Reinforcement learning-based spike prediction for transregional neural prostheses</strong>. In ECE Future Leaders PG Seminar, HKUST, Hong Kong. 
