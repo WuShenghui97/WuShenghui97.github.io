@@ -131,6 +131,7 @@ His research interests include <strong>brain-machine interfaces</strong>, <stron
 
 
 # 📖 Teaching
+- *2026 Fall*, **Guest Lecture**, Data Science in Neural Engineering​ (ELEC 3830 & BIEN 3310)
 - *2022 Fall*, *2020 Fall*, **Teaching Assistant**, Signals and Systems (ELEC 2100).
 - *2022 Spring*, **Teaching Assistant**, Machine Learning on Images (ELEC 4130).
 - *2020 Spring*, **Teaching Assistant**, Statistical Signal Analysis and Applications in Neural Engineering (ELEC 4830 & BIEN 4310).
